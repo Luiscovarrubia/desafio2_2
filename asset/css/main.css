@@ -1,0 +1,50 @@
+*{
+    margin: o;
+    padding: 0;
+    border: 0;
+
+}
+
+body{
+
+    background-color: lemonchiffon;
+}
+
+
+header{
+    
+    padding-top: 10px;
+    border: 20px rosybrown solid;
+    font-size: 100px;
+    color: darkcyan;
+    height: 500px;
+    background-image: url("/asset/img/head_foto.jpeg");
+
+}
+
+img {
+
+    border: 10px rosybrown solid;
+    margin-top: 100px;
+    width: 400px;
+}
+
+footer{
+    font-size: 80px;
+    text-align: right;
+    padding-right: 400px;
+    margin-top: 100px;
+    height: 100px;
+    background-color: rgb(255, 0, 115);
+    background-image: url(/asset/img/woodstock_logo.png);
+    background-repeat: no-repeat;
+    opacity: 60%;
+}
+
+a{
+
+    margin-left: 20px;
+    font-size: 50px;
+
+}
+
